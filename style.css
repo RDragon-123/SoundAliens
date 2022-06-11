@@ -1,0 +1,30 @@
+body{
+    font-family: 'Fascinate', cursive;
+    background: aquamarine;
+}
+.header_div{
+    background: aquamarine;
+}
+.header_div p{
+    font-family: fantasy;
+    letter-spacing: 2px;
+    font-size: large;
+    font-weight: bold;
+    color: navy;
+}
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: aquamarine;
+    line-height: 3;
+    text-align: center;
+    font-family: cursive;
+}
